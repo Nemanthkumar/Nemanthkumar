@@ -153,13 +153,7 @@ Share advanced computer vision tutorials
 
 ---
 
-🌐 Connect With Me
-
-💼 LinkedIn: Add your LinkedIn URL here
-
 📧 Email: msnemanth@gmail.com
-
-🌟 GitHub: Add your GitHub profile link here
 
 
 
